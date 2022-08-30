@@ -2,7 +2,7 @@
       Feito em:
       
 ✈️ Python
-🛩️ Djnago
+🛩️ Django
 ✈️ SQLite
 🛩️ HTML
 ✈️ CSS
