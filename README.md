@@ -1,6 +1,10 @@
-# Nutricao
-Sistema para nutricionistas
-
-Python
-Django
+#Sistema para nutriocnistas.
+      Feito em:
+      
+✈️ Python
+🛩️ Djnago
+✈️ SQLite
+🛩️ HTML
+✈️ CSS
+🛩️ JS
 
